@@ -3,13 +3,13 @@
 <h3>What is this?
 OpenCore is bootloader for booting macOS in your PC<h3>
 <h3>Installing OpenCore<h3>
-Download EFI.zip
+Download EFI Folder (Download Source Code)
 
 Format USB Drive to FAT32 (At least 1GB for USB Drive)
 
 If you didnt have USB Drive, You can partition internal drive and use new partition as OpenCore partition
 
-Extract EFI.zip to your usb drive or partition (this can be in your internal drive)
+Copy EFI Folder to your usb drive or partition (this can be in your internal drive)
 
 Done
 
