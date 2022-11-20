@@ -3,16 +3,15 @@
 <h3>What is this?
 OpenCore is bootloader for booting macOS in your PC<h3>
 <h3>Spectifications<h3>
-<p>Intel Core i5 1035G1
+Intel Core i5 1035G1
 Intel UHD Graphics 630 G1
 Intel AX201
 512GB Kingston M.2
 HID Trackpad and Keyboard
 8GB Ram
 Nvidia GeForce MX250
-<p>
 <h3>What working<h3>
-<p>QE/CI of Intel UHD Graphics 630 G1
+QE/CI of Intel UHD Graphics 630 G1
 All USB ports
 Display brightness
 Wifi and Bluetooth
@@ -24,12 +23,11 @@ Front facing camera
 Battery percentage
 Handoff and import from iPhone (iPhone need to be on iOS 15 to make import from iPhone working)
 Apple services (iMessages,FaceTime, iCloud)
-<p>
 <h3>Whats not wokring<h3>
-<p>Sleep and wake (fixing)
+Sleep and wake (fixing)
 Internal microphone
 HDMI (not tested)
 Thunderbolt port (not tested)
 AirPlay and AirDrop
 Nvidia MX250 (Disable)
-<p>
+
