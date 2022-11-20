@@ -12,7 +12,9 @@ HID Trackpad and Keyboard
 Nvidia GeForce MX250
 <h3>What working<h3>
 QE/CI of Intel UHD Graphics 630 G1
+
 All USB ports
+
 Display brightness
 Wifi and Bluetooth
 Internal speaker audio output
