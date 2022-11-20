@@ -4,5 +4,5 @@
 <body>
 <h2>Compatible with macOS Big Sur, Monterey and Ventura<h2>
 <h2>What is this?
-<p>OpenCore is bootloader for booting macOS in your PC<p>
+<p><h3>OpenCore is bootloader for booting macOS in your PC<p><h3>
 <h2>
