@@ -3,6 +3,7 @@
 <h3>What is this?
 OpenCore is bootloader for booting macOS in your PC<h3>
 <h3>Spectifications<h3>
+
 Intel Core i5 1035G1
 
 Intel UHD Graphics 630 G1
@@ -55,3 +56,17 @@ AirPlay and AirDrop
 
 Nvidia MX250 (Disable)
 
+<h2>BIOS setup<h2>
+Disable:
+
+Secure Boot
+
+Fast Boot
+
+<h2>Enable:<h2>
+F12 Boot menu
+
+<h2>Change:<h2>
+Sata mode to AHCI (Press ctrl+s at Main tab to show hidden option)
+
+<h3>Installing macOS<h3>
