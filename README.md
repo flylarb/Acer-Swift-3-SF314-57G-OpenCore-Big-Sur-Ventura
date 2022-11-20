@@ -2,3 +2,5 @@
 <h2>Compatible with macOS Big Sur, Monterey and Ventura<h2>
 <h3>What is this?
 OpenCore is bootloader for booting macOS in your PC<h3>
+Spectifications
+Intel Core i5 1035G1
