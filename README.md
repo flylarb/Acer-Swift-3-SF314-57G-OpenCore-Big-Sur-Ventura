@@ -33,11 +33,23 @@ Name the 20gb partiton as Installer
 
 In OpenCore Boot Menu, Choose Recovery(*your version*).dmg
 
-After you boot to setup, go to Utilities tab in menu bar and choose terminal
+After you boot to setup, Open disk utility (you will need to hard clicking on trackpad or use mouse as normal click)
 
-type this into terminal
+choose the partition you want to install macOS, Format them as APFS, incase it error to format as APFS format them as Mac OS Extended and convert them to APFS (it will locatw in menu bar, try checking all menu bar option for this)
 
-/
+exit disk utility
+
+go to Utilities tab in menu bar and choose terminal
+
+type this into terminal (case-sensitive)
+
+"/Volumes/Installer/Install macOS Ventura.app/Contents/MacOS/InstallAssistant"
+
+start installation and done!
+
+this time after it reboot choose the boot disk to the macOS Installer option, keep repeating this until it change the drive name to the one you choose (like Untitled or Macintosh HD)
+
+done
 
 <h3>Spectifications<h3>
 
