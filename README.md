@@ -120,8 +120,11 @@ Sata mode to AHCI (Press ctrl+s at Main tab to show hidden option)
 
 Have a problem/bug?
 In case you need the chat support or want to contact me (or just create issue at issue tab for best)
+
 My telegram group (note, I use this grp for most of my development, don't worry if someone telling you wrong group, just pm me
 https://t.me/labradorsupportlmao
 (My username, @FlylarbTheBMO)
+
 Discord
+
 The Absolute Flylarb#7012
