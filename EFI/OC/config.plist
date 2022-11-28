@@ -1481,7 +1481,7 @@
 			<key>SecureBootModel</key>
 			<string>Disabled</string>
 			<key>Vault</key>
-			<string>Basic</string>
+			<string>Optional</string>
 		</dict>
 		<key>Serial</key>
 		<dict>
@@ -1616,7 +1616,7 @@
 			<key>ROM</key>
 			<data>ESIzAAAA</data>
 			<key>SpoofVendor</key>
-			<true/>
+			<false/>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
