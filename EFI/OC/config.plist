@@ -360,6 +360,10 @@
 				<data>WooAAA==</data>
 				<key>framebuffer-patch-enable</key>
 				<data>AQAAAA==</data>
+                                <key>framebuffer-fbmem</key>
+				<data>AAAAAw==</data>
+                                <key>framebuffer-stolenmem</key>
+				<data>AAAABA==</data>
 				<key>model</key>
 				<string>Intel(R) UHD Graphics 630</string>
 				<key>AAPL,Gfx324</key>
