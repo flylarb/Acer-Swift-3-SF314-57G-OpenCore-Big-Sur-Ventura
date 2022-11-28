@@ -360,10 +360,10 @@
 				<data>WooAAA==</data>
 				<key>framebuffer-patch-enable</key>
 				<data>AQAAAA==</data>
-                                <key>framebuffer-fbmem</key>
-				<data>AAAAAw==</data>
-                                <key>framebuffer-stolenmem</key>
+				<key>framebuffer-fbmem</key>
 				<data>AAAABA==</data>
+				<key>framebuffer-stolenmem</key>
+				<data>AAAAAw==</data>
 				<key>model</key>
 				<string>Intel(R) UHD Graphics 630</string>
 				<key>AAPL,Gfx324</key>
@@ -1345,7 +1345,7 @@
 			<key>DisableLinkeditJettison</key>
 			<true/>
 			<key>DisableRtcChecksum</key>
-			<false/>
+			<true/>
 			<key>ExtendBTFeatureFlags</key>
 			<false/>
 			<key>ExternalDiskIcons</key>
@@ -1421,9 +1421,9 @@
 		<key>Debug</key>
 		<dict>
 			<key>AppleDebug</key>
-			<true/>
+			<false/>
 			<key>ApplePanic</key>
-			<true/>
+			<false/>
 			<key>DisableWatchDog</key>
 			<true/>
 			<key>DisplayDelay</key>
@@ -1604,31 +1604,31 @@
 	<key>PlatformInfo</key>
 	<dict>
 		<key>Automatic</key>
-		<false/>
+		<true/>
 		<key>CustomMemory</key>
 		<false/>
 		<key>Generic</key>
 		<dict>
 			<key>AdviseFeatures</key>
-			<true/>
+			<false/>
 			<key>MLB</key>
-			<string>FVF039600CD00008C</string>
+			<string>C02109303GUP8PG1F</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>ESIzAAAA</data>
+			<data>pF5gHJtH</data>
 			<key>SpoofVendor</key>
-			<false/>
+			<true/>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>MacBookAir9,1</string>
+			<string>MacBookPro16,2</string>
 			<key>SystemSerialNumber</key>
-			<string>FVFDGJZTMNHP</string>
+			<string>C02FC0Z5ML7H</string>
 			<key>SystemUUID</key>
-			<string>0C038E6F-6288-405F-9383-2DA8537300C4</string>
+			<string>E606E97A-BDB7-4392-8154-484B50629703</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
@@ -1870,7 +1870,7 @@
 			<key>AppleEg2Info</key>
 			<false/>
 			<key>AppleFramebufferInfo</key>
-			<false/>
+			<true/>
 			<key>AppleImageConversion</key>
 			<true/>
 			<key>AppleImg4Verification</key>
@@ -1892,7 +1892,7 @@
 			<key>FirmwareVolume</key>
 			<true/>
 			<key>HashServices</key>
-			<false/>
+			<true/>
 			<key>OSInfo</key>
 			<false/>
 			<key>UnicodeCollation</key>
@@ -1907,7 +1907,7 @@
 			<key>EnableVectorAcceleration</key>
 			<true/>
 			<key>EnableVmx</key>
-			<false/>
+			<true/>
 			<key>ExitBootServicesDelay</key>
 			<integer>0</integer>
 			<key>ForceOcWriteFlash</key>
