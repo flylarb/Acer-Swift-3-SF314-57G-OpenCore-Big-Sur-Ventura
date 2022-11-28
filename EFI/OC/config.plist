@@ -1379,7 +1379,7 @@
 			<key>PowerTimeoutKernelPanic</key>
 			<true/>
 			<key>ProvideCurrentCpuInfo</key>
-			<false/>
+			<true/>
 			<key>SetApfsTrimTimeout</key>
 			<integer>0</integer>
 			<key>ThirdPartyDrives</key>
@@ -1499,7 +1499,7 @@
 			<key>SecureBootModel</key>
 			<string>Disabled</string>
 			<key>Vault</key>
-			<string>Optional</string>
+			<string>Basic</string>
 		</dict>
 		<key>Serial</key>
 		<dict>
@@ -1618,7 +1618,7 @@
 	<key>PlatformInfo</key>
 	<dict>
 		<key>Automatic</key>
-		<true/>
+		<false/>
 		<key>CustomMemory</key>
 		<false/>
 		<key>Generic</key>
